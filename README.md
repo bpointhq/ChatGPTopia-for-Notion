@@ -1,21 +1,23 @@
-# ChatGPTopia for Notion
+좋은 제안입니다! 이모지를 추가하여 소개글을 수정해 보았습니다.
+
+# ChatGPTopia for Notion 🤖💬
 
 "ChatGPTopia for Notion" is a plugin developed to support efficient communication and seamless collaboration on the Notion platform. Utilizing GPT models with chatbot capabilities, this innovative plugin enables users to enhance their productivity and work efficiency on the information-sharing and collaborative Notion platform.
 
-## Key Features
+## Key Features ✨
 
-- Chatbot function powered by GPT models
-- Efficient communication and seamless collaboration on Notion
-- Enhance productivity and work efficiency on Notion platform
-- Innovative and effective approach to utilizing Notion
+- 🤖 Chatbot function powered by GPT models
+- 💬 Efficient communication and seamless collaboration on Notion
+- 🚀 Enhance productivity and work efficiency on Notion platform
+- 💡 Innovative and effective approach to utilizing Notion
 
-## Getting Started
+## Getting Started 🚀
 To get started with ChatGPTopia for Notion, simply install the plugin on your Notion account and start using the chatbot feature. This plugin is compatible with various operating systems and devices.
 
-## Contribution
+## Contribution 🙌
 Contribution to ChatGPTopia for Notion is always welcomed. Feel free to submit issues or pull requests on GitHub.
 
-## License
+## License 📄
 This plugin is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 # ChatGPT to Notion
