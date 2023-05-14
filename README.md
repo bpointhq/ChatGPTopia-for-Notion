@@ -1,5 +1,3 @@
-좋은 제안입니다! 이모지를 추가하여 소개글을 수정해 보았습니다.
-
 # ChatGPTopia for Notion 🤖💬
 
 "ChatGPTopia for Notion" is a plugin developed to support efficient communication and seamless collaboration on the Notion platform. Utilizing GPT models with chatbot capabilities, this innovative plugin enables users to enhance their productivity and work efficiency on the information-sharing and collaborative Notion platform.
